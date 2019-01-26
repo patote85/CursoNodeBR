@@ -1,5 +1,5 @@
 # CursoNodeBR
-anotações do Curso Node JS para iniciantes
+anotações do Curso Node JS para iniciantes --> https://treinamento.nodebr.org/
 
 node --version = acessa a versão do node 
 npm --version = acessa a versão do npm 
